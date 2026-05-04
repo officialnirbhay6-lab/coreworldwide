@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img" aria-label="MAD Cinemas">
+  <rect width="720" height="240" fill="none"/>
+  <text x="360" y="126" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="150" font-weight="700" fill="#10184f">M<tspan fill="#d6a84e">A</tspan>D</text>
+  <path d="M354 42 L382 42 L348 178 L320 178Z" fill="#d6a84e" opacity=".95"/>
+  <path d="M362 58 L376 58 M356 84 L370 84 M350 110 L364 110 M344 136 L358 136" stroke="#111" stroke-width="6" stroke-linecap="round"/>
+  <text x="360" y="202" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" letter-spacing="14" fill="#f4d78d">CINEMAS</text>
+</svg>
